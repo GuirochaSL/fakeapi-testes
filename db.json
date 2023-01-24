@@ -1,20 +1,21 @@
 {
   "usuario": [
     {
-    "id": 000001,
-    "email": "guilherme.rocha@sawluz.com.br",
+      "id": 1,
+	  "email": "guilherme.rocha@sawluz.com.br",
 	  "name": "Guilherme Rocha",
 	  "phone": "5551996296543",
-	  "alias": "SAWLUZ",
-	  "whatsapp": true
-    },
-	{
-      "id": 000002,
-      "email": "teste@sawluz.com.br",
+	  "alias": "SAWLUZ"    },
+    {
+      "id": 2,
+	  "email": "teste@sawluz.com.br",
 	  "name": "teste",
-	  "phone": "5551999999999",
-	  "alias": "SAWLUZ",
-	  "whatsapp": false
+	  "phone": "55999999",
+	  "alias": "teste"
     }
-  ] 
+
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
