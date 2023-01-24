@@ -1,11 +1,20 @@
 {
-  "posts": [
+  "usuario": [
     {
-      "id": 1,
-      "title": "hello"
+    "id": 000001,
+    "email": "guilherme.rocha@sawluz.com.br",
+	  "name": "Guilherme Rocha",
+	  "phone": "5551996296543",
+	  "alias": "SAWLUZ",
+	  "whatsapp": true
+    },
+	{
+      "id": 000002,
+      "email": "teste@sawluz.com.br",
+	  "name": "teste",
+	  "phone": "5551999999999",
+	  "alias": "SAWLUZ",
+	  "whatsapp": false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ] 
 }
