@@ -5,7 +5,8 @@
 	  "email": "guilherme.rocha@sawluz.com.br",
 	  "name": "Guilherme Rocha",
 	  "phone": "5551996296543",
-	  "alias": "SAWLUZ"    },
+	  "alias": "SAWLUZ"
+	},
     {
       "id": 2,
 	  "email": "teste@sawluz.com.br",
@@ -13,7 +14,6 @@
 	  "phone": "55999999",
 	  "alias": "teste"
     }
-
   ],
   "profile": {
     "name": "typicode"
