@@ -1,24 +1,22 @@
 {
     {
         "id": 000001,
-        "address": null,
-		"description": null,		
+        "address": null,	
         "description": null,
         "email": "guilherme.rocha@sawluz.com.br",
         "name": "Guilherme Rocha",
         "phone": "5551996296543",
         "alias": "SAWLUZ",
-		"whatsapp": true
+	"whatsapp": true
     }
 	{
         "id": 000002,
-        "address": null,
-		"description": null,		
+        "address": null,	
         "description": null,
         "email": "teste.rocha@sawluz.com.br",
         "name": "teste",
         "phone": "9999999999",
         "alias": "SAWLUZ",
-		"whatsapp": false
+	"whatsapp": false
     }
 }
