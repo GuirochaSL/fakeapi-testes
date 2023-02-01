@@ -1,4 +1,3 @@
-
 {
   "usuario": [
     {
@@ -16,7 +15,16 @@
 	  "alias": "teste"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "alias": [
+    {
+      "id": 123456,
+	  "email": "guilherme.rocha@sawluz.com.br",
+	  "name": "SAWLUZ"
+	},
+    {
+      "id": 654321,
+	  "email": "teste@sawluz.com.br",
+	  "name": "SAWLUZ"
+    }
+  ]
 }
