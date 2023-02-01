@@ -15,7 +15,16 @@
 	  "alias": "teste"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "alias": [
+    {
+      "id": sawluz,
+	  "email": "guilherme.rocha@sawluz.com.br",
+	  "name": "SAWLUZ"
+	},
+    {
+      "id": teste,
+	  "email": "teste@sawluz.com.br",
+	  "name": "SAWLUZ"
+    }
+  ]
 }
