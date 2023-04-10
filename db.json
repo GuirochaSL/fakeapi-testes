@@ -1,0 +1,55 @@
+{
+  "usuario": [
+    {
+      "id": 55519962965433,
+	  "email": "guilherme.rocha@sawluz.com.br",
+	  "name": "Guilherme Rocha",
+	  "phone": "5551996296543",
+	  "alias": "SAWLUZ"
+	},
+    {
+      "id": 55999999,
+	  "email": "teste@sawluz.com.br",
+	  "name": "teste",
+	  "phone": "55999999",
+	  "alias": "teste"
+    }
+  ],
+  "alias": [
+  {
+    "id": 123456,
+    "email": "guilherme.rocha@sawluz.com.br",
+    "name": "SAWLUZ"
+  },
+  {
+    "id": 912345,
+    "email": "teste@enertec.com.br",
+    "name": "enertec"
+  },
+  {
+    "id": 934567,
+    "email": "teste@wabco.com.br",
+    "name": "wabco"
+  },
+  {
+    "id": 932165,
+    "email": "teste@trw.com.br",
+    "name": "trw"
+  },
+  {
+    "id": 965821,
+    "email": "teste@dura.com.br",
+    "name": "dura"
+  },
+  {
+    "id": 985231,
+    "email": "teste@gdbr.com.br",
+    "name": "gdbr"
+  },
+  {
+    "id": 912345,
+    "email": "teste@faurecia.com.br",
+    "name": "faurecia"
+  }
+]
+}
